@@ -1,0 +1,4 @@
+faust/*.lv2
+faust/*-svg
+*.out
+gen

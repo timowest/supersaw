@@ -21,7 +21,7 @@ standalone: gen
 	g++ -Wall gen/supersaw.cpp  -Isrc $(ALSA_GTK) $(FAUST) $(CFLAGS) -lm -o supersaw.out
 
 run:
-	jalv.gtk http://faust-lv2.googlecode.com/synth
+	jalv.gtk http://faust-lv2.googlecode.com/supersaw
 
 gen:
 	mkdir gen

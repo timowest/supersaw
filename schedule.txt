@@ -1,4 +1,0 @@
-day 1 - supersaw
-day 2 - filter
-day 3 - synth basics
-day 4 - synth modulation
